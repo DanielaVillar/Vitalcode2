@@ -12,6 +12,7 @@
 ------------
 #### **DESCRIPCIÓN:**
 Somos un grupo de estudiantes de segundo ciclo de ingeniería biomédica en la UPCH y PUCP motivados a desarrollar nuestras habilidades cognitivas y blandas para mejorar la calidad de vida de nuestros usuarios y obtener avances científicos.
+
 > # DIEGO
 <p align="center">
   <img src="https://i.postimg.cc/Fzd9QprD/240b44f1-7a51-4739-b3fe-c7dbcb2c6ffd.jpg" width="180">
@@ -22,6 +23,17 @@ Somos un grupo de estudiantes de segundo ciclo de ingeniería biomédica en la U
 - Espectativas: recibir mucha información, repositorios y hacer contactos. 👁️‍🗨️
 - Habilidades: escribir, habla en publico y calculo rápido. 🏅
 - Hobbies: eschuchar, ver y leer historias. 😊
+
+> # DANIELA
+<p align="center">
+  <img src="https://i.postimg.cc/44Lp7WT8/3b212691-fe0b-4f50-ab03-9eb5e0b81c41.jpg" width="180">
+</p>
+
+- Edad: 17 🧮
+- Porque Ing. Biomédica: porque me apasiona la ciencia y la tecnología, y quiero usarlas para crear dispositivos, soluciones para mejorar la calidad de vida de las personas. ⚛️
+- Espectativas: que mi campo de conocimiento crezca para poder plasmarlo en las investigaciones que are a futuro. . 👁️‍🗨️
+- Habilidades: los deportes, trabajar en equipo y perceverancia. 🏅
+- Hobbies: practicar softball, cocinar y hacer manualidades. 😊
 
 > # SHARON
 <p align="center">
