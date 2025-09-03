@@ -2,8 +2,8 @@
 
 ------------
 #  **INTEGRANTES:**
-- _Daniela Villar Frech_ 💜
-- _Diego Alejandro Huapaya Cruz_ 💙
+- _Diego Alejandro Huapaya Cruz_ 💜
+- _Daniela Villar Frech_ 💙
 - _Dylan Aguedo Infante Vivas_ 💚
 - _Sharon Acuarela Obispo Díaz_ ❤️
 - _Oscar Danilo Céspedes Huasacca_ 🧡
@@ -12,3 +12,5 @@
 ------------
 #### **DESCRIPCIÓN:**
 Somos un grupo de estudiantes de segundo ciclo de ingeniería biomédica en la UPCH y PUCP motivados a desarrollar nuestras habilidades cognitivas y blandas para mejorar la calidad de vida de nuestros usuarios y obtener avances científicos.
+> # DIEGO
+[![240b44f1-7a51-4739-b3fe-c7dbcb2c6ffd.jpg](https://i.postimg.cc/Fzd9QprD/240b44f1-7a51-4739-b3fe-c7dbcb2c6ffd.jpg)](https://postimg.cc/xNQrvKbz)
