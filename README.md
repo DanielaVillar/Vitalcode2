@@ -1,6 +1,7 @@
+[![Whats-App-Image-2025-09-02-at-9-47-53-PM.jpg](https://i.postimg.cc/TP9jrYJr/Whats-App-Image-2025-09-02-at-9-47-53-PM.jpg)](https://postimg.cc/06zJvv3Q)
+
 ------------
-#  **VITALCODE**
-#### _Integrantes:_
+#  **INTEGRANTES:**
 - _Daniela Villar Frech_ 💜
 - _Diego Alejandro Huapaya Cruz_ 💙
 - _Dylan Aguedo Infante Vivas_ 💚
