@@ -43,9 +43,8 @@ Somos un grupo de estudiantes de segundo ciclo de ingeniería biomédica en la U
 - Edad: 17 🧮
 - Porque Ing. Biomédica: porque me apasiona la investigación e innovación tecnológica que se puede desarrollar orientada a mejorar los servicios de salud. ⚛️
 - Espectativas: spero poder llegar desarrollar exitosamente, especialmente, en el área de biomecánica. 👁️‍🗨️
-- Habilidades: Soy empático, manejo la comunicación asertiva y oratoria. 🏅
+- Habilidades: soy empático, manejo la comunicación asertiva y oratoria. 🏅
 - Hobbies: participar de debates, actividades de voluntariado y escuchar música. 😊
-
 
 > # SHARON
 <p align="center">
@@ -57,3 +56,14 @@ Somos un grupo de estudiantes de segundo ciclo de ingeniería biomédica en la U
 - Espectativas: llegar a ser una excelente ingeniera y especializarme en tejido y biomateriales. 👁️‍🗨️
 - Habilidades: soy empatica, me adapto a las circunstancias y trabajo en equipo. 🏅
 - Hobbies: bailar, jugar voley, escuchar musica y ver series. 😊
+
+> # DANILO
+<p align="center">
+  <img src="https://i.postimg.cc/SKNRVBm5/Whats-App-Image-2025-09-03-at-10-03-22-PM.jpg" width="180">
+</p>
+
+- Edad: 17 🧮
+- Porque Ing. Biomédica: porque me gusta la unión de biología, ingeniería y medicina. ⚛️
+- Espectativas: quiero desempeñarme bien en el área y poder ayudar a personas. 👁️‍🗨️
+- Habilidades: rapidez para aprender, ingenio, facilidad para hablar.  🏅
+- Hobbies: videojuegos, deporte, leer. 😊
